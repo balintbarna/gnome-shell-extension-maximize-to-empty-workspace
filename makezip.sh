@@ -1,6 +1,6 @@
 #!/bin/sh
 
-NAME=MaximizeToEmptyWorkspace-extension@kaisersite.de
+NAME=MaximizeToEmptyWorkspace-extension@kovari.cc
 cd $NAME
 zip -r $NAME.zip *
 mv $NAME.zip ../..
